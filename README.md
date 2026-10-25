@@ -2,7 +2,7 @@
 
 Animated geometric shapes with rotation
 
-A Remotion project created with **Motion Studio**.
+A Remotion project created with **Motion Studoio**.
 
 ## Render
 
