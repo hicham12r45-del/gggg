@@ -4,7 +4,7 @@
   "description": "Shadow AI app promo video",
   "scripts": {
     "start": "remotion studio",
-    "build": "remotion render ShadowAIAd out/video.mp4",
+    "build": "remotion render MyComposition out/video.mp4",
     "upgrade": "remotion upgrade"
   },
   "dependencies": {
