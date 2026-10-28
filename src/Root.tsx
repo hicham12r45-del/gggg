@@ -1,16 +1,16 @@
 import { Composition } from 'remotion';
-import { MyComposition } from './Composition';
+import { ShadowAIAd } from './Composition';
 
-export const RemotionRoot = () => {
+export const RemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
-        id="MyComposition"
-        component={MyComposition}
-        durationInFrames={150}
+        id="ShadowAIAd"
+        component={ShadowAIAd}
+        durationInFrames={300}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1080}
+        height={1920}
       />
     </>
   );
